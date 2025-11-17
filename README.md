@@ -89,9 +89,9 @@ customized ads, discounts, and coupons on Amazon, Flipkart, and Myntra.
 
    •Charts (Line, Bar, Pie)
 
-    •Slicers
+   •Slicers
 
-    •Dashboard Formatting
+   •Dashboard Formatting
 
 
 **🙌 Acknowledgements**
